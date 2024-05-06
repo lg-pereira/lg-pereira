@@ -1,7 +1,8 @@
 <h2 align="center"> Hey there! I'm Luiz Gustavo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lg-pereira/lg-pereira/master/gif3.gif" width="500"/>
 
-<ul> 
+<ul>
+    <br>
     <li> 🔭 &nbsp; Learning to become a Full Stack Developer. </li>
     <li> 🤔 &nbsp; Exploring new technologies and developing software solutions. </li>
     <li> 🎓 &nbsp; Studying computer programming and Mathematics. </li>
