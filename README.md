@@ -1,16 +1,42 @@
-### Hi there 👋
+<h2 align="center"> Hey there! I'm Luiz Gustavo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lg-pereira/lg-pereira/master/gif3.gif" width="500"/>
 
-<!--
-**lg-pereira/lg-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul> 
+    <li> 🔭 &nbsp; Studying to become a Full Stack Developer  </li>
+    <li> 🤔 &nbsp; Exploring new technologies and developing software solutions. </li>
+    <li> 🎓 &nbsp; Studying computer programming and Mathematics. </li>
+    <li> 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence . </li>
+    <li> ✍️ &nbsp; Spend time with my family and friends, playing guitar ou even chess. </li>
+</ul>
 
-Here are some ideas to get you started:
+<h2 align="center">Techs</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=light" alt="HTML,CSS,JavaScript,Bootstrap" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=vscode,git&theme=light" alt="VSCode,Git" />
+  </a>
+</p>
+
+<br>
+<hr/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lg-pereira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_radius=10" alt="lg-pereira's Github Stats">
+
+</br>
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lg-pereira&layout=compact&text_color=daf7dc&bg_color=151515&border_radius=10)](https://github.com/lg-pereira/github-readme-stats)
+
+<hr/>
+<h3> 🤝 Contact Me </h3>
+
+<p align="center">
+ 
+&nbsp; <a href="https://www.linkedin.com/in/lg-pereira/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+&nbsp; <a href="mailto:lgonlineworker@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail"  width="50" /></a>
+</p>
+
+</div>
