@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lg-pereira/lg-pereira/master/gif3.gif" width="500"/>
 
 <ul> 
-    <li> 🔭 &nbsp; Studying to become a Full Stack Developer  </li>
+    <li> 🔭 &nbsp; Learning to become a Full Stack Developer. </li>
     <li> 🤔 &nbsp; Exploring new technologies and developing software solutions. </li>
     <li> 🎓 &nbsp; Studying computer programming and Mathematics. </li>
     <li> 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence . </li>
