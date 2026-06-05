@@ -26,8 +26,8 @@
 ### Sobre mim
 
 - 🚀 Construindo landing pages e apps com **React + TypeScript** deployados na **Cloudflare**
-- ☁️ Explorando o ecossistema Cloudflare: Workers, D1, R2, KV
-- 🔐 Interessado em Segurança e IA aplicada
+- ☁️ Explorando o ecossistema Cloudflare
+- 🔐 Interessado em Cyber Segurança e IA aplicada a Automações
 - 🎸 Quando não estou codando: guitarra, xadrez ou com a família
 
 ---
