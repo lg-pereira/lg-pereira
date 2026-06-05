@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a href="mailto:luiz@consultorluizg.com.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://lg-pereira.github.io/">
@@ -59,17 +59,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lg-pereira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F6821F&icon_color=F6821F&text_color=D3D3D3&bg_color=0,0a0a0a,1a1a2e&border_radius=10" />
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lg-pereira&layout=compact&text_color=daf7dc&bg_color=151515&border_radius=10" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=lg-pereira&theme=dark&background=0a0a0a&border=F6821F&stroke=F6821F&ring=F6821F&fire=F6821F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6821F&sideLabels=F6821F&dates=888888&border_radius=10" />
-
+  <img src="profile/stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="profile/top-langs.svg" alt="Top Languages" />
+  <br/><br/>
+  <img src="profile/streak.svg" alt="Streak Stats" />
 </div>
 
 ---
@@ -77,7 +71,11 @@
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lg-pereira/lg-pereira/output/github-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lg-pereira/lg-pereira/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lg-pereira/lg-pereira/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lg-pereira/lg-pereira/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
