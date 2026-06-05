@@ -11,30 +11,40 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Create profile directory
-        run: mkdir -p profile
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=lg-pereira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F6821F&icon_color=F6821F&text_color=D3D3D3&bg_color=0,0a0a0a,1a1a2e&border_radius=10" \
-            -o profile/stats.svg
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=lg-pereira&layout=compact&text_color=daf7dc&bg_color=151515&border_radius=10" \
-            -o profile/top-langs.svg
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
-        run: |
-          curl -s "https://streak-stats.demolab.com?user=lg-pereira&theme=dark&background=0a0a0a&border=F6821F&stroke=F6821F&ring=F6821F&fire=F6821F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F6821F&sideLabels=F6821F&dates=888888&border_radius=10" \
-            -o profile/streak.svg
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&layout=compact
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        with:
+          card: pin
+          options: username=pranesh-2005&repo=github-readme-stats-fast
+          path: profile/pin-github-readme-stats-fast.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
