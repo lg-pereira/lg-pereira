@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Construindo soluções reais com foco em Ads Tech e resolvendo problemas.<br/>
+ Construindo soluções reais com foco em Ads Tech e Tracking.<br/>
  Apaixonado por infra moderna, edge computing e resolver problemas que importam.
 </p>
 
