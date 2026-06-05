@@ -1,8 +1,10 @@
-<h1 align="center">Luiz Gustavo 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=f4cccc&text=Luiz%20Pereira&reversal=false&fontColor=15415F&textBg=false&fontSize=48">
+</p>
 
 <p align="center">
-  Dev júnior construindo coisas reais com React, TypeScript e Cloudflare.<br/>
-  Apaixonado por infra moderna, edge computing e resolver problemas que importam.
+ Construindo soluções reais com foco em Ads Tech e resolvendo problemas.<br/>
+ Apaixonado por infra moderna, edge computing e resolver problemas que importam.
 </p>
 
 <p align="center">
